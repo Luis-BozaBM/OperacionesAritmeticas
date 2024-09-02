@@ -1,4 +1,4 @@
-import tkinter as tk
+"""import tkinter as tk
 from tkinter import messagebox
 
 
@@ -55,12 +55,11 @@ label_resultado = tk.Label(ventana, text="Resultado:")
 label_resultado.grid(row=5, column=0, columnspan=2, pady=10)
 
 ventana.mainloop()
+"""
+from OperacionesAritmeticas import OperacionesAritmeticas
 
+if __name__ == '__main__':
+    operacion = OperacionesAritmeticas()
+    num1, num2 = operacion.ingresoNumeros()
+    print(f"{num1} + {num2} = {operacion.suma(num1, num2)}")
 
-def suma(a, b):
-    numeroOne = float(input("Ingresa un numero: "))
-    numeroDos = float(input("Ingresa un numero"))
-    resultado = numeroOne * numeroDos
-    print(f"El resultado es : {resultado}")
-
-suma(6, 8)

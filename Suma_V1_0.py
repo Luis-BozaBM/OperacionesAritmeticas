@@ -1,3 +1,5 @@
+
+
 numeroOne = float(input("Ingresa un numero: "))
 numeroDos = float(input("Ingresa un numero: "))
 resultado = numeroOne * numeroDos
