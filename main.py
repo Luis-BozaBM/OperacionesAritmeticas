@@ -29,11 +29,9 @@ def calcular():
         messagebox.showerror("Error", "Por favor, ingrese números válidos.")
 
 
-# Crear la ventana principal
 ventana = tk.Tk()
 ventana.title("Calculadora")
 
-# Crear y ubicar los widgets
 tk.Label(ventana, text="Número 1:").grid(row=0, column=0, padx=10, pady=10)
 tk.Label(ventana, text="Número 2:").grid(row=1, column=0, padx=10, pady=10)
 
