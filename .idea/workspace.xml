@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2660d5-cb4a-4e87-b232-0a3fba60e958" name="Changes" comment="Proyecto de suma">
-      <change afterPath="$PROJECT_DIR$/Suma_V1_1.py" afterDir="false" />
+    <list default="true" id="ee2660d5-cb4a-4e87-b232-0a3fba60e958" name="Changes" comment="Proyecto suma V1_1">
+      <change afterPath="$PROJECT_DIR$/Suma_V1_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Suma_V1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Suma_V1_0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Luis-BozaBM &lt;72240092@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -36,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Suma_V1_2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -91,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725319060211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Proyecto suma V1_1">
+      <option name="closed" value="true" />
+      <created>1725320280395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320280395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto suma V1_1">
+      <option name="closed" value="true" />
+      <created>1725320398013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320398013</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto de suma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de suma" />
+    <MESSAGE value="se añadio suma V1_1" />
+    <MESSAGE value="Proyecto suma V1_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto suma V1_1" />
   </component>
 </project>
